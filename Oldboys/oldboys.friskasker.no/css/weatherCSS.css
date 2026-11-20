@@ -1,0 +1,86 @@
+/* GENERAL STYLES */
+#weatherContainer{
+	margin: 15px 0 15px 0;
+	height: 150px;
+	background: url(../data/weatherIcons/panelback.jpg) no-repeat 0 35px;
+}
+
+#weatherHeader{
+}
+
+#weatherHeader img {
+	padding:0 0 0 0;
+	margin:0 0 0 -5px;
+}
+
+#weatherMod {
+	padding: 2px 5px 5px 5px;	
+}
+
+#weatherImage{
+	float:left;
+	margin: -10px 5px 5px 5px;
+	}
+
+
+#weatherDate {
+	margin: -5px 0 0 -5px;
+	font-size:10px;
+}
+
+#currentCond {
+	visibility: hidden;
+	
+}
+
+#conditionDetails{
+	display:none;
+	position: relative;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#currentTemp {
+	float:right;
+	padding: 10px 35px 10px 5px;
+	font-size: 20px;
+	font-weight: bold;
+	
+	}
+
+#weatherForecast{
+	clear:both;
+	padding: 0 0 10px 0;
+}
+
+#dayName {
+	font-weight: bold;
+}
+
+#forecastDetails{
+	font-size:10px;
+	
+}
+
+#dayForecast{
+	float:left;
+	padding: 5px 30px 5px 5px;
+}
+
+#dayDetails{
+	}
+
+#hiTemp {
+	
+}
+
+#loTemp {
+	}
+
+
+#weatherFooter{
+	clear:both;
+}
+
+
+/* EDITOR PROPERTIES */
