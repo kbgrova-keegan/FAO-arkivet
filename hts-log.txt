@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Apr 2024 14:01:43 at http://oldboys.friskasker.no +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qir4C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://oldboys.friskasker.no -O1 "C:\My Web Sites\Oldboys" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:02:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 28026): oldboys.friskasker.no/arkiv/2007/valgets-kvaler.aspx
+14:02:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 20869): oldboys.friskasker.no/arkiv/2007/moetereferat-fra-aarsmoetet-for-old-boys-fredag-16-mars-2007.aspx
+14:07:27	Error: 	"Not Found" (404) at link oldboys.friskasker.no/terminliste.aspx (from oldboys.friskasker.no/arkiv/2018/vaaren-kommer-naa.aspx)
+14:07:27	Error: 	"Not Found" (404) at link oldboys.friskasker.no/frisk-asker/dommerhjoernet/dommerliste.aspx (from oldboys.friskasker.no/arkiv/2017/faos-dommerprosjekt.aspx)
+14:08:44	Error: 	"Not Found" (404) at link oldboys.friskasker.no/arkiv/2021/POST (from oldboys.friskasker.no/WebResource.axd?d=RhJRe7vAQjxLvd0VTiPlJ3ItrtWKNnlC5ndUOdQ1oQE84Jw0mmyu8t9423FKr6Sh25O1JfgygCRLDXncXNuX2rijfWY1&t=635737087099672665)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 1 seconds : 743 links scanned, 739 files written (22125918 bytes overall), 417 files updated [12249592 bytes received at 29096 bytes/sec], 1.0 requests per connection
+(3 errors, 2 warnings, 0 messages)
